@@ -4,9 +4,10 @@
   "description": "character life scale",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage",
+    "test": "jest",
     "lint": "eslint .",
-    "build": "webpack --mode production"
+    "build": "webpack --mode production",
+    "coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
