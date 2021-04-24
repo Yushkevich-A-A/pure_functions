@@ -1,0 +1,22 @@
+{
+  "name": "pure_functions",
+  "version": "1.0.0",
+  "description": "character life scale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yushkevich-A-A/pure_functions.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Yushkevich-A-A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yushkevich-A-A/pure_functions/issues"
+  },
+  "homepage": "https://github.com/Yushkevich-A-A/pure_functions#readme"
+}
